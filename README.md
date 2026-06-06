@@ -7,7 +7,6 @@
 - **ESP32开发板** (mhetesp32devkit)
 - **0.96寸OLED显示屏** (SSD1306驱动, 128x64分辨率, I2C接口)
 - LED (GPIO 2, 板载)
-- 继电器 (GPIO 13, 可选)
 
 ## 接线说明
 
