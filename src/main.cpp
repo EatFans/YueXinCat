@@ -93,14 +93,8 @@ void loop()
       currentFrame = 0; // 循环回到第一帧
     }
 
-    // LED闪烁指示（可选，同步播放节奏）
+    // LED闪烁指示（同步播放节奏）
     digitalWrite(LED_PIN, currentFrame % 2);
   }
 
-  // 继电器控制保持原有逻辑（可按需调整或移除）
-  // 这里注释掉，如果需要可以取消注释
-  // digitalWrite(RELAY_PIN, HIGH);
-  // delay(3000);
-  // digitalWrite(RELAY_PIN, LOW);
-  // delay(3000);
 }
