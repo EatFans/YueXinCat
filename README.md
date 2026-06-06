@@ -1,4 +1,4 @@
-# CatDance - OLED GIF播放器
+# YueXinCat - 月薪喵 OLED GIF播放器
 
 这是一个基于ESP32的OLED显示器GIF动画播放项目。
 
@@ -98,7 +98,7 @@ for(byte address = 1; address < 127; address++) {
 ```
 CatDance/
 ├── assets/
-│   └── 1321321.gif          # 原始GIF文件
+│   └── 1.gif          # 原始GIF文件
 ├── include/
 │   └── gif_frames.h         # 自动生成的C数组帧数据
 ├── src/
