@@ -2,6 +2,9 @@
 
 这是一个基于ESP32的OLED显示器GIF动画播放项目。
 
+## 展示视频
+<iframe src="/doc/1.mp4" width="100%" height="100%" controls="controls"></iframe>
+
 ## 硬件要求
 
 - **ESP32开发板** (mhetesp32devkit)
