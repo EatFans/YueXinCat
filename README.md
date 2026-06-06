@@ -4,7 +4,9 @@
 
 ## 展示视频
 
-<iframe src="/doc/1.mp4" width="100%" height="100%" controls="controls"></iframe>
+[📹 点击观看展示视频](./doc/1.mp4)
+
+> 如果无法播放，请下载到本地查看，或查看转换后的GIF动图
 
 ## 硬件要求
 
